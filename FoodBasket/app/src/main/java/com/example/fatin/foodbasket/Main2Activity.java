@@ -11,7 +11,6 @@ import android.widget.Spinner;
 
 public class Main2Activity extends AppCompatActivity {
     private Button home;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
